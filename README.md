@@ -13,10 +13,13 @@ Things you may want to cover:
 
 * Configuration
 > jQuery inclusion is commented out from both the Gemfile and application.js
+> Ensure that any changes in Vagrant/provisioning or database.yml are kept in sync with each other
 
 * Database creation
+> This is automated with vagrant on first-time provisioning
 
 * Database initialization
+> This is also automated on provisioning. Simply re-provision if you need to run `rake db:migrate` again.
 
 * How to run the test suite
 
