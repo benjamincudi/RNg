@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+## Instructions pulled from https://gorails.com/setup/ubuntu/14.04
+
 # install ruby dependencies
 sudo apt-get -qq update
 sudo apt-get -qq install git-core curl zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev python-software-properties libffi-dev
