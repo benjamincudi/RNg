@@ -18,3 +18,4 @@
 config/secrets.yml
 .idea/
 config/database.yml
+.vagrant/
