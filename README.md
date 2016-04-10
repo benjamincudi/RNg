@@ -10,7 +10,6 @@ Initial release:
 * Vagrant provisioning should have better first-time state checking
 * Vagrant provisioning should probably be broken into smaller bash scripts
 
-
 Things you may want to cover when forking for your own project:
 
 * Ruby version
